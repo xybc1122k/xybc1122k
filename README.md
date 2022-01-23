@@ -1,4 +1,4 @@
-### Hi there 👋
+## 　　1、Do nothing by halves.。 👋
 
 <!--
 **xybc1122k/xybc1122k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
